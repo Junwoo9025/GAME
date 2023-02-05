@@ -22,6 +22,6 @@ getting AWS amzon certificate, and wil be learning Azure. Then in the future, I 
 
 # Future Work
 
-Better Error Handling, I took so many times to figure out the errors and code is a bit messy.
-Better design, so that I want to make it cool and better sound.
-Better Memory Management because Object-oriented programming can be resource-intensive, I want to improvem in how memory is managed in these systems.
+1. Better Error Handling, I took so many times to figure out the errors and code is a bit messy.
+2. Better design, so that I want to make it cool and better sound.
+3. Better Memory Management because Object-oriented programming can be resource-intensive, I want to improvem in how memory is managed in these systems.
