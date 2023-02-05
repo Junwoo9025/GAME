@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uzF8NwdObIKkdQ31KQhrGXIIrxpv+y33cVZyHcofn2QDZkx4g0EO96GZsNeqSrSuXicjPgyVisuAR+HXsWF8dA==",
+  "success": true,
+  "projectFilePath": "/Users/Programming/final/car_race/Unit06.csproj",
+  "expectedPackageFiles": [
+    "/Users/junwoojeong/.nuget/packages/raylib-cs/3.7.0.1/raylib-cs.3.7.0.1.nupkg.sha512",
+    "/Users/junwoojeong/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
