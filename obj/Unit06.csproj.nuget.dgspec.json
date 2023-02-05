@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Programming/final/car_race/Unit06.csproj": {}
+    "/Users/junwoojeong/Github/GAME/Unit06.csproj": {}
   },
   "projects": {
-    "/Users/Programming/final/car_race/Unit06.csproj": {
+    "/Users/junwoojeong/Github/GAME/Unit06.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Programming/final/car_race/Unit06.csproj",
+        "projectUniqueName": "/Users/junwoojeong/Github/GAME/Unit06.csproj",
         "projectName": "Unit06",
-        "projectPath": "/Users/Programming/final/car_race/Unit06.csproj",
+        "projectPath": "/Users/junwoojeong/Github/GAME/Unit06.csproj",
         "packagesPath": "/Users/junwoojeong/.nuget/packages/",
-        "outputPath": "/Users/Programming/final/car_race/obj/",
+        "outputPath": "/Users/junwoojeong/Github/GAME/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/junwoojeong/.nuget/NuGet/NuGet.Config"
